@@ -1,0 +1,41 @@
+body {
+}
+
+header {
+  background-color: midnightblue;
+}
+
+#logo {
+  height: 180px;
+}
+
+header nav {
+  display: inline;
+}
+
+header ul {
+  color: #00008;
+  display: inline-block;
+  vertical-align: top;
+    margin: 63px 0 0 0;
+}
+
+header li a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+header li {
+  display: inline-block;
+  margin: 0px 30px;
+  font-size: 20px;
+}
+
+nav a:hover {
+  color: ORANGE;
+}
+
+nav a:active {
+  text-transform: uppercase;
+  color: red;
+}
